@@ -394,7 +394,6 @@ PRODUCT_PACKAGES += \
     NetworkSetting \
     QtiTelephonyService \
     atfwd \
-    datastatusnotification \
     embms \
     imssettings \
     uimlpaservice \
