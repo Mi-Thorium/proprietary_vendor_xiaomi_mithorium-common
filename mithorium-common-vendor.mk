@@ -293,6 +293,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mithorium-common/proprietary/system_ext/etc/permissions/uimremoteserver.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/uimremoteserver.xml
 
 PRODUCT_PACKAGES += \
+    EuiccGoogle
+
+PRODUCT_PACKAGES += \
     com.qualcomm.qti.dpm.api@1.0 \
     com.qualcomm.qti.imscmservice@1.0 \
     com.qualcomm.qti.imscmservice@2.0 \
